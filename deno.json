@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "supabase": "https://esm.sh/@supabase/supabase-js@2",
+    "grammy_types": "https://deno.land/x/grammy_types@v3.4.2/mod.ts"
+  }
+}
