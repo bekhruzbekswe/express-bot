@@ -1,4 +1,3 @@
-
 import type { Update, User as TelegramUser } from "grammy_types";
 import { Ctx } from "../context.ts";
 
@@ -31,4 +30,3 @@ export type PaginatorOptions<T extends Identifiable> = {
   perPage: number;
   renderItem: (item: T) => string;
 };
-
